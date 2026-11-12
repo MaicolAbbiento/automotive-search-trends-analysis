@@ -39,4 +39,4 @@ Per una corretta lettura dei risultati, è fondamentale tenere presenti due aspe
 ---
 
 ## 🔗 Link Utili
- [Visualizza il Foglio Google con dati e grafici](#https://docs.google.com/spreadsheets/d/e/2PACX-1vQg-CKyJNJ2WFty1nqPPjQeUXWqObsDHPIluBgISFWx4P3b2KYoLQbNPlKWZA69Kf7xOt-1XoMtAnNS/pubhtml#gid=1922203689) 
+* [Visualizza il Foglio Google con dati e grafici](https://docs.google.com/spreadsheets/d/e/2PACX-1vQg-CKyJNJ2WFty1nqPPjQeUXWqObsDHPIluBgISFWx4P3b2KYoLQbNPlKWZA69Kf7xOt-1XoMtAnNS/pubhtml#gid=1922203689)
